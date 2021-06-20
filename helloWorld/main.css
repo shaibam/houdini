@@ -1,0 +1,7 @@
+div {
+    --some: [[0, 0, 10, 10]];
+    background-image: paint(checkerboard);
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}
